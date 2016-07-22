@@ -1,6 +1,6 @@
 # interviewprep
 
-Resources to prep for technical interviews.
+Resources to prep for technical interviews. Contributions via PRs and Issues welcome. 
 
 # Resources
 
