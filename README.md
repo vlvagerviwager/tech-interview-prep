@@ -1,8 +1,8 @@
-# interviewprep
+# Technical Interview Prep Resources
 
-Resources to prep for technical interviews. Contributions via PRs and Issues welcome. 
+Resources to prepare for technical interviews. 
 
-# Resources
+## Resources
 
 | Site | What do I do with this? | 
 | ------------- |-------------| 
@@ -15,3 +15,7 @@ Resources to prep for technical interviews. Contributions via PRs and Issues wel
 | [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) | JavaScript design patterns, including MV*, jQuery, etc. | 
 | [LeetCode](https://leetcode.com/) | Practise for technical interviews | 
 | [The Algorithm Design Manual, 2nd Edition by Steven Skiena](http://www.algorist.com/) | Practise for technical interviews |
+
+## Contribution guide
+
+Contributions via PRs and [Issues](https://github.com/zky829/tech-interview-prep/issues) welcome. 
