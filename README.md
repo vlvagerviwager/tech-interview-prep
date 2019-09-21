@@ -8,12 +8,14 @@ Resources to prepare for technical interviews.
 | ------------- |-------------| 
 | [Ask HN: How to prepare for technical interviews?](https://news.ycombinator.com/item?id=9170179) | Read the discussion. | 
 | [CodeFights](https://codefights.com/) | Practise for technical interviews |
+| [CodeSignal](https://codesignal.com/) | Real interview questions from companies. |
 | [FullStack Café](https://www.fullstack.cafe/) | Practise for full stack technical interviews |
 | [Glassdoor](https://www.glassdoor.com/) | Read reviews of companies, look for interview questions, content, and tips | 
 | [Interview Cake](https://www.interviewcake.com/) | Practise for technical interviews | 
 | [Javascript quiz, ES6 edition](http://perfectionkills.com/javascript-quiz-es6/) | For fun. "[..] another set of mind-bending snippets no sensible developer would ever use in their code" |
 | [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) | JavaScript design patterns, including MV*, jQuery, etc. | 
 | [LeetCode](https://leetcode.com/) | Practise for technical interviews | 
+| [Pramp](https://www.pramp.com/#/) | Interview practise tool. | 
 | [The Algorithm Design Manual, 2nd Edition by Steven Skiena](http://www.algorist.com/) | Practise for technical interviews |
 
 ## Contribution guide
