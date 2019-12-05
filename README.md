@@ -6,6 +6,7 @@ Resources to prepare for technical interviews.
 
 | Site | What do I do with this? | 
 | ------------- |-------------| 
+| [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) | |
 | [Ask HN: How to prepare for technical interviews?](https://news.ycombinator.com/item?id=9170179) | Read the discussion. | 
 | [CodeFights](https://codefights.com/) | Practise for technical interviews |
 | [CodeSignal](https://codesignal.com/) | Real interview questions from companies. |
